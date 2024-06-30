@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "app.client.url",
+      "type": "java.lang.String",
+      "description": "Description for app.client.url."
+  }
+] }
